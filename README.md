@@ -30,6 +30,45 @@ It was created as a learning project to explore the basics of **3D game developm
   <li>🌱 Simple Minecraft-inspired world</li>
 </ul>
 
+## 🎮 Game Controls
+
+| Control                | Action                  |
+| ---------------------- | ----------------------- |
+| **W**                  | Move Forward            |
+| **S**                  | Move Backward           |
+| **A**                  | Move Left               |
+| **D**                  | Move Right              |
+| **Mouse**              | Look Around             |
+| **Left Mouse Button**  | Place Block             |
+| **Right Mouse Button** | Remove Block            |
+| **1**                  | Select Grass Block      |
+| **2**                  | Select Stone Block      |
+| **3**                  | Select Brick Block      |
+| **4**                  | Select Dirt Block       |
+| **ESC**                | Open / Close Pause Menu |
+
+### 🧱 Block Selection
+
+The number keys allow you to select different blocks:
+
+* **1 → Grass Block** 🌱
+* **2 → Stone Block** 🪨
+* **3 → Brick Block** 🧱
+* **4 → Dirt Block** 🟫
+
+After selecting a block, use the **Left Mouse Button** to place it.
+
+Use the **Right Mouse Button** to remove an existing block.
+
+## ⏸️ Pause Menu
+
+Press **ESC** to open the pause menu.
+
+The menu provides three options:
+
+* **Resume** → Continue the game
+* **Restart** → Reset the world and player position
+* **Quit** → Exit the game
 
 ## 🎯 Purpose
 
